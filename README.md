@@ -4,7 +4,7 @@ Honey pot for debian web server (University project)
 
 1. Mise en place des VM :
 
-2. Configuration du Honeypot (VM Debian server) :
+2. Configuration du Honeypot (sur la VM Debian server) :
 
 3. Configuration de la VM Kali Linux (Attaquant) :
 
