@@ -1,0 +1,3 @@
+#Ouverture port 80 iptables
+
+sudo iptables -A INPUT -p tcp --dport 80 -j ACCEPT
