@@ -17,5 +17,10 @@ Honey pot for debian web server (University project)
    a. Nous allons utilisé audit pour l'enregistement des logs pour l'installer utilisé la commande sudo apt install auditd
    b. Nous allons maintenant configurer les règle à établir pour l'enregistrement des commandes rendez vous dans le fichier de configuration : sudo editor /etc/audit/rules.d/audit.rules
    c. Entrée les règles suivante dans le fichier : -a always,exit -F arch=b64 -S execve -k user_commands (Si votre système est en 32bits changer la commande arch=b64 par arch=b62)
+
+
+
+   Installer l'environnement COWRIE x CYPOT
+
    
 
